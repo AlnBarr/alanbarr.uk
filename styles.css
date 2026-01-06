@@ -39,6 +39,12 @@ h2 {
     text-align: justify;
     font-size: 1.1em;
  }
+ 
+ img {
+	max-width: 100%;
+	height: auto;
+	display: block;
+ }
 
 .subtitle {
     font-size: 1.2em;
